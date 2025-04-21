@@ -11,6 +11,10 @@ This repository contains materials for conducting interviews on Human-AI Interac
 - Platform guidance and observer notes
 - `.gitignore`, `LICENSE` – Standard metadata
 
+## Get Started
+
+- Asking participants to clone this repo (e.g., `git clone https://github.com/cmlmanni/vibe_coding_interview_kit.git`)
+
 ## License
 
 MIT License (see LICENSE).
