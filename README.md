@@ -14,6 +14,7 @@ This repository contains materials for conducting interviews on Human-AI Interac
 ## Get Started
 
 - Asking participants to clone this repo (e.g., `git clone https://github.com/cmlmanni/vibe_coding_interview_kit.git`)
+- Start with [task1](task1_instructions.md)
 
 ## License
 
