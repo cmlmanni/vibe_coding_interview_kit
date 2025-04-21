@@ -1,4 +1,16 @@
 // Task 2: Buggy Diamond in Java (with AI allowed)
+// Final output should look like:
+
+//     *
+//    ***
+//   *****
+//  *******
+// *********
+//  *******
+//   *****
+//    ***
+//     *
+
 public class Task2DiamondBuggy {
     public static void main(String[] args) {
         int n = 5;
