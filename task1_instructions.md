@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Write a Python script that prints a right-angled triangle using stars (`*`) with a height of 5.
+Write a script that prints a right-angled triangle using stars (`*`) with a height of 5.
 
 **Example Output:**
 
